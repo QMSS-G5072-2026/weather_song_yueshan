@@ -1,5 +1,3 @@
-"""Weather station utilities for QMSS G5072 Homework 6."""
-
 import math
 
 import pandas as pd
