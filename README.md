@@ -1,5 +1,7 @@
 # weather_ss7872
 
+[![CI](https://github.com/QMSS-G5072-2026/weather_song_yueshan/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/QMSS-G5072-2026/weather_song_yueshan/actions/workflows/ci.yml)
+
 Utilities for cleaning and summarizing weather data.
 
 ## Documentation
