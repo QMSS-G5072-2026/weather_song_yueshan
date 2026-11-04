@@ -22,6 +22,7 @@ extensions = [
     "sphinx.ext.viewcode",
 ]
 autoapi_dirs = ["../src"]
+autoapi_ignore = ["*.ipynb_checkpoints*"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
