@@ -2,6 +2,10 @@
 
 Utilities for cleaning and summarizing weather data.
 
+## Documentation
+
+[Read the documentation](https://weather-song-yueshan.readthedocs.io/en/latest/index.html)
+
 ## Installation
 
 ```bash
